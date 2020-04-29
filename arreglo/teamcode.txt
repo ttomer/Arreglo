@@ -1,0 +1,69 @@
+     <div id="mission"  style="text-align: center;">
+                    <h3>Mission</h3><br>
+                    Our Mission Statement should describe why does the company exist/what is the reason for the organizations existence. This statement has to build up on our Values Statement. <br>
+                </div>
+                &nbsp;
+                <div id="vision"  style="text-align: center;">
+                    <h3>Vision</h3><br>
+                    Our Vision Statement should describe what we want to achieve in the future/who we want to become. This statement has to build up on our Values Statement. <br>
+                </div>
+                &nbsp;
+                <div id="values" style="text-align: center;">
+                    <h3>Values</h3><br>
+                    <ul>
+                        <li><strong>The Future:</strong> To continue evolving to meet the needs and desires of our clientele</li><br>
+                        <li><strong>The People:</strong> To link our customers with other like-minded young professionals in the city</li><br>
+                        <li><strong>The Experience:</strong> To provide an exceptionally high-class experience with every one of our event offerings</li><br>
+                    </ul>
+                </div>              
+            </div>
+            <hr>
+            <div class="ourteam">
+                <h1>Meet Our Team</h1><br>
+                <table>
+                    <tr>
+                        <td><img src="Version 1 Images/tawanda.jpg" alt="Tawanda" width="300px" height="250px"/></td>
+                        <td><img src="Version 1 Images/panashe.jpg" alt="Panashe" width="300px" height="250px"/></td>
+                        <td><img src="Version 1 Images/natasha.jpg" alt="Natasha" width="300px" height="250px"/></td>
+                        <td><img src="Version 1 Images/agang.jpg" alt="Agang" width="300px" height="250px"/></td>
+                    </tr>
+                    <tr style="text-align: center;">
+                        <td><h3>Tawanda</h3></td>
+                        <td><h3>Panashe</h3></td>
+                        <td><h3>Natasha</h3></td>
+                        <td><h3>Agang</h3></td>
+                    </tr>
+                    <tr style="text-align: center;">
+                        <td><h5>Co-Founder & Chief Revenue Officer</h5></td>
+                        <td><h5>Co-Founder & Chief Operations Officer</h5></td>
+                        <td><h5>Grants, Permits & Licensing</h5></td>
+                        <td><h5>Corporate Relations</h5></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.instagram.com/ccinataps/" target="_blank"><img src="Version 1 Images/instagramicon.png" alt="Instagram" width="30px" height="30px"/></a>
+                            <a href="https://www.facebook.com/tawanda.chinataps" target="_blank"><img src="Version 1 Images/facebookicon.png" alt="Facebook" width="30px" height="30px"/></a>
+                            <a href="https://www.linkedin.com/in/tawanda-nigel-chitapi-032017110/" target="_blank"><img src="Version 1 Images/linkedinicon.png" alt="LinkedIn" width="36px" height="30px"/></a>
+                        </td>
+                        <td>
+                            <a href="https://www.instagram.com/pokipine/" target="_blank"><img src="Version 1 Images/instagramicon.png" alt="Instagram" width="30px" height="30px"/></a>
+                            <a href="https://www.facebook.com/panashe.mapokotera" target="_blank"><img src="Version 1 Images/facebookicon.png" alt="Facebook" width="30px" height="30px"/></a>
+                            <a href="https://www.linkedin.com/in/mapokoterapanashe/" target="_blank"><img src="Version 1 Images/linkedinicon.png" alt="LinkedIn" width="36px" height="30px"/></a>
+                        </td>
+                        <td>
+                            <a href="https://www.instagram.com/natasha.mhuriro/" target="_blank"><img src="Version 1 Images/instagramicon.png" alt="Instagram" width="30px" height="30px"/></a>
+                            <a href="https://www.facebook.com/natasha.mhuriro" target="_blank"><img src="Version 1 Images/facebookicon.png" alt="Facebook" width="30px" height="30px"/></a>
+                            <a href="https://www.linkedin.com/in/natasha-mhuriro/" target="_blank"><img src="Version 1 Images/linkedinicon.png" alt="LinkedIn" width="36px" height="30px"/></a>
+                        </td>
+                        <td>
+                            <a href="https://www.instagram.com/agang.tema/" target="_blank"><img src="Version 1 Images/instagramicon.png" alt="Instagram" width="30px" height="30px"/></a>
+                            <a href="https://www.facebook.com/aganganthony.tema" target="_blank"><img src="Version 1 Images/facebookicon.png" alt="Facebook" width="30px" height="30px"/></a>
+                            <a href="https://www.linkedin.com/in/agangtema/" target="_blank"><img src="Version 1 Images/linkedinicon.png" alt="LinkedIn" width="36px" height="30px"/></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+
+
+

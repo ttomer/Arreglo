@@ -1,0 +1,77 @@
+/* CSS Styles for Arreglo Entertainment Website */
+
+/* constant styles */
+* {
+    margin: 0;
+    padding: 0; /* removes white space between sections */
+    color: black;
+}
+
+/* body of document */
+body {
+    font-family: RebelRedux;
+    background-color:#ff8d6b;
+}
+
+/* header */
+header {
+    height: 150px;
+    background-color:#ff8d6b;
+}
+
+/* Footer */
+footer {
+    height: 175px;
+    background-color:#ff8d6b;
+}
+
+/* Horizontal Line to end Sections */
+hr {
+    border-color: black;
+}
+
+/* Logo in Header */
+#headerlogo {
+    max-width: 100%;
+    max-height: 80%;
+}
+
+/* Logo in Footer */
+#footerlogo {
+    max-width: 25%;
+}
+
+/* header navigation */
+nav {
+    font-size: 16px;
+    font-weight: bold;
+    word-spacing: 75px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: white;
+}
+
+/* Main Content Area for Home, About, Events, Playlists and Contact */
+.maindoc {
+    height: 1500px;
+}
+
+/* Table with About, Navigation and COntact Us in Footer */
+#footer1 {
+    text-align: center;
+}
+
+/* Styles for Navigation and Contact Links in Footer */
+tr a {
+    text-decoration: none;
+}
+
+tr td a:hover {
+    color: white;
+}
